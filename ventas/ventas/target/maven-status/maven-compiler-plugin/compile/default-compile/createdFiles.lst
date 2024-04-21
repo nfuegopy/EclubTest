@@ -1,0 +1,11 @@
+com\AntonioBarrios\ventas\rabbit\service\RabbitMQListenerService.class
+com\AntonioBarrios\ventas\rabbit\dto\StockUpdate.class
+com\AntonioBarrios\ventas\RabbitMQConfig.class
+com\AntonioBarrios\ventas\ventas\model\Ventas.class
+com\AntonioBarrios\ventas\ventas\model\Product.class
+com\AntonioBarrios\ventas\VentasApplication.class
+com\AntonioBarrios\ventas\ventas\model\Client.class
+com\AntonioBarrios\ventas\rabbit\dto\StockUpdateMessage.class
+com\AntonioBarrios\ventas\ventas\controller\VentasController.class
+com\AntonioBarrios\ventas\ventas\repository\VentasRepository.class
+com\AntonioBarrios\ventas\ventas\service\VentasService.class

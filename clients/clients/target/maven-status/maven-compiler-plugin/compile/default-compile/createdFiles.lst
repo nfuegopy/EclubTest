@@ -1,0 +1,5 @@
+com\AntonioBarrios\clients\clients\service\ClientService.class
+com\AntonioBarrios\clients\clients\repository\ClientRepository.class
+com\AntonioBarrios\clients\clients\controller\ClientController.class
+com\AntonioBarrios\clients\clients\model\Client.class
+com\AntonioBarrios\clients\ClientsApplication.class
